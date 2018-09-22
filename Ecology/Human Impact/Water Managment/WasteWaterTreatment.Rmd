@@ -1,0 +1,191 @@
+---
+title: "Waste Water Treatment"
+author: "Keelan Krinsky"
+output: "html_document"
+---
+
+# Imports
+
+# Waste Water Treatment
+
+## Standards for waste water treatment
+
+
+## Grey water
+from washing can be reused. contains oils, from bathroom kitchen, and detergents. domstic waste water is far less complex to deal with than industrail waste water. Acid mine drainage, dies from textile industry, automobile industry. Catering industry (oils and fats), glass industry, pharmaceutical industry (organic pollutants), refinaries, COPY IMAGE. 
+
+## Black water
+From toilets cdannot be reusede without processing. 
+
+## Treatment Plants
+There are many mucipal plants. 
+
+### Private
+Many complaies recycle the water they use onsite, to reduce their water consumption and reduce pollution, theses plants are called packaged plants, as most plannts are normally very big, ie the size of a biulding where as package plants are a container, (still highly interannly compartmentalised 
+
+
+## Process
+primary treatment stage 
+
+secondary treatment stage 
+
+sludge is produced. 
+
+sewerarge is very high in solids, odd items are somtimes flushed, and stuff is illegally dumped in sewerage. Flocculation and aggregation is used but also gravity is required, sludge is produced by settling out throught the process, this sludge must then be treated by itself. ie pollutants stuck to particular matter may have very high concetrations of accumulated, pathogens, or metals or other toxins. 
+
+### Disinfection 
+Addition of chlorine to liquid component to kill bacteria E. coli and F. coli for example 
+
+### Stage 1 pretreatment 
+typically happens at industry 
+occurs in industry prior to discharge to prevent toxic chemicals or excess nutrients being discharged in the waste water
+
+
+### Preliminanry (stage)
+at plant 
+
+#### bar screen
+, remove larrge materials, and non degradable pieces, bycyles, bottles, fetuses, bricks bootles pieces of wood etc. (such items can lead to blockages in the stream, even smaller plastics such as earbuds are filtered out at this point, crates as well. fat traps traps it and disgards it separately. fat can block up pumps and pipes in treatment plants. 
+
+#### Grit chamber
+renives ricks, gravel and brocken glass, which settles out as the water passes slowly through the chamber. 
+
+#### Mesh 
+a finer mesh may also be used to remove any remaining small solids. 
+
+NOTE: settling must occur in a conical chamber to be effecient, huge conical tanks are used megalitres in size, water enters at center flowing out ovewr wiers at the ednge the particular organic matter which st\ettles outt is the primary sludge, there is often rotation so that watar keeps moving, a skimmer is used to remove fats and oils from the surface. The primary effluent is then suched off, the water still contains lots of chemical pollutants, the  primary sludge is pumped to the sludge condenser where it is concentrated before disposal, a toxic sludge is a black color, and is very thick and unmanagamble a healthy sludge is a chocolate brown color. 
+
+### Primary 
+primary treat,emt reduces the suspended solids and the B. O.D of the wastewater. 
+From the primary treatment the tanks warewr in pumped to the trickling filter for secondard treatment. 
+
+
+
+
+### Secondary 
+asecondary treatment will further reduce the suspended solids BOD of the waste water 
+
+to measure B.O.D property takes a month there is a 5 day verysion, but COD is used instead, which can be measured in several hours. 
+
+In the sludge condesor there is activated sludge (sludge which has been aerated  so that microorganisms can start to remove nitrogen phospherous etc. )
+
+
+take up to 200Megalitres per day in Capetown, fall in you die, plants are very dangerous. 
+
+One treatment plant stopped functioning due to sludge turning black. hwo to assess what the major polutant is, major industrial area, glasses+. furthermore the effect on the sludge can be weeks or months after the event. To monitor industries muncipalities send poeple to sample waste of industry, but there are too many idustries so samples only taken once every three monts. first step is to analyse sludge, high metal indicated metal finishing company, storing kilolitres of water stored in skips, unable to treat it, dumping it. killed all bacteria, and sludge died off. The final effleunt of the plant is now no longer compliant. treat existing dead sludge. Re-introduced microbes, preferable from domestic, tankers required to mix fresh sludge with dead sludge. more oxygen required, sludge can now be mixed and dead sludge slowly restored. weeks to months, while non compliant dischage going into river the whole time. bodies are seldom required. 
+
+NOte many problems with industrial monitoring, indutry does not opperate onyl the time, inferquent samleing, aribary of water officials. 
+
+Free state, abitour, river red, so issued warning , howver abitour had proof of water samples, actually red vienna complany used up stream. 
+
+### Sludge disposal
+
+
+## Sewerage systemm
+
+### Sanitary sewery 
+from domestic and industry
+
+### Storm water sewers
+carry storrm water from rain 
+
+### Combined 
+carry both sanitary and storm water sewers. 
+
+Water moves by gravity flow, assisted by pump stations in low lying areas. 
+
+## Secondary treatment
+secondary treatment is a biological treamtent, (whereas primary is physical). the flow at the entry to the plant is taken to calculate COD. a flow meter continuously records the volume (COPY SLIDE)
+
+suspended solids, COD and turbidity should all decrease moving thtoough the plant (turbidity is not often used for waste water as therte are too many suspended solids. 
+
+## Composition of waste water
+COPY LIST. 
+
+## Inorganics 
+can sometimes be easily removed via biological processes
+
+## Organics. 
+
+## Requirements for microbe growth. 
+cosntant flow, energy source, oxygen nutrieents (carbon nitrogen minerals vimatems growth factors. COPY SLIDE. 
+
+Microorganisms like to live or thrive at an optimum temperature. growth rate will approximately doubel for 10C rose in temperature, extreem temepratures may be damageing 
+
+### Cyclophilic organisms 
+
+### Medophili organisms 
+
+### Thermophyilc organisms 
+
+### PH 
+Yellowstone grand prismatic spring, 87C hot blue water by the center, cools as it moved out creating concentric circles of lower temperatures and different colors. COPY IMAGE 
+
+#### Acidophiles 
+0-6
+
+#### Alkaliphiles 
+8-13
+
+most bacteria prefer 6-8 Fungi prefer 4-7. 
+
+genral standards for waste waster is 5.5-9.5 to ensure a healthy biomass. 
+
+importance of biological treatment 
+largely responsible for reduction of organic material in wastewater use organic matter as food supply to support the growth of biomass. also use organic material to provide energy for growth resulting in production of $CO_2$ and ither matabulic gasses produces in respiration to use as an energy supply. 
+
+### Oxygen requirements
+
+## Aerobic 
+utilise oxygen 
+rapic conversion releasing a lot of energy COPY IMAGE. 
+
+## Anerobic 
+requires a high oxygen supply, bubbles forming on top of tyhe tank normaly an indication of oxygen. oxygen  may also be sprayed on from the surface. 
+perform best with little or no oxygen, obtaining needed oxygen from molecules that contain oxygen. If oxygen is removed then no aerobic respiration will take place and ammonia etc  would not be broken down. take part in a complex two step process in th absence of uxyg3b 
+
+### Acid forming phase 
+acid forming bacterua hydrolyse the complex organic molecules and convert them into organic acids, lowering the PH
+
+### Methanogenic phase 
+methane forming bacteria metabolize the acid to $CH_4$ and $CO_2$ amino acids are broken down forming ammonia which tends to raise the pH, dried bacterial samples not very effective do not consistently outperform the control
+
+grow in the absence of oxygen 
+
+## Facultative
+can grow either with or without the presence of oxygen 
+
+. energy sourcee is sulfates, reduces tp $H_2S$ and other file smelling organisms.
+
+## Microbial growth phase
+Nicrobial growth pahse write module and copy image. if food constatly supplied there should always be an equilibrium mantained. 
+
+### Distrubace 
+
+#### Heavy organic load 
+COPY SLIDE
+
+### toxic load
+COPY SLIDE
+
+## Biofilter 
+
+stones compacted together biofilm grows on the stones, which pollishes or cleans water, old tecnology, rotating versions (COPY IMAGE). trickling filter does not filter, it is just used to remove roganic matter from the water. 
+
+## Activated sludge 
+biofilm in suspension. from secondary treatment on the trickling filter waer flows to the final clarifiers for further removal of sludge. the final clarifiers are anothe set of primary sedimantation tanks. 
+### Nutrient requirments
+carbon, from organic mater or $CO_2$, phospherous, comes mainly from detergents, sulfer is also required as well as minerals and other trace elements. 
+
+Additional zones required to break down phosphates and nitrates, 
+nitrifyers break down ammonia to nitrates, COPY LIST OF ORGAANISMS. 
+
+#### Nitryfiers 
+
+
+#### Sulfur oxidizers
+ 
+
+ final effluent should be complaint, and flows into rivers, untreated severage is often dumped into rivers. treatment plants not opperating effectively, may infact not be functioning at all. sewerage just comes in and goes out. poor maintanance, muncipalities are often in a lot of dept to national government etc, so cannot afford to treat sewerage. many plants are not functioning optimally.
+
+ final effluent still cannot be drunk, until it is chlorinated, waste waster going into the sea is raw, undergoing no treatment. As in this case it is highly diluted. 
